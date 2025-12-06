@@ -1,0 +1,35 @@
+{
+  "node": {
+    "40a9347bf028218f3638bb2af4947751c31b6cb6bf": {
+      "workers": {
+        "app/admin/actors/import/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/actors/import/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/admin/actors/import/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "importFromSpotlightUrl",
+          "filename": "app/admin/actors/import/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/actors/import/page": "action-browser"
+      },
+      "exportedName": "importFromSpotlightUrl",
+      "filename": "app/admin/actors/import/actions.ts"
+    },
+    "40e2371a057bc2a433e202e4049429047023ae8c6b": {
+      "workers": {
+        "app/admin/actors/import/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/actors/import/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/admin/actors/import/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "uploadSpotlightPdf",
+          "filename": "app/admin/actors/import/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/actors/import/page": "action-browser"
+      },
+      "exportedName": "uploadSpotlightPdf",
+      "filename": "app/admin/actors/import/actions.ts"
+    }
+  },
+  "edge": {}
+}

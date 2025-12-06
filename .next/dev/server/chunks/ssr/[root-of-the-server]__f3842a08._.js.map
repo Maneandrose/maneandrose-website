@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/andre/projects/maneandrose/maneandrose_ext/app/admin/actors/new/page.tsx"],"sourcesContent":["export default function NewActorPage() {\n  return (\n    <div>\n      <h1 className=\"text-xl font-display font-semibold mb-4\">Add new actor</h1>\n      <p className=\"text-neutral-600 text-sm\">The form UI will be added in the next step.</p>\n    </div>\n  );\n}\n\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;;0BACC,8OAAC;gBAAG,WAAU;0BAA0C;;;;;;0BACxD,8OAAC;gBAAE,WAAU;0BAA2B;;;;;;;;;;;;AAG9C"}}]
+}

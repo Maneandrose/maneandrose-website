@@ -1,0 +1,11 @@
+[00:00:00.869] Server  LOG      ✓ Ready in 616ms
+[00:00:06.233] Server  ERROR   Supabase error: {}
+[00:00:06.234] Server  ERROR   Supabase error: {}
+[00:00:06.448] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:12.414] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:15.425] Server  ERROR   Supabase error: {}
+[00:00:15.614] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:16.858] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:29.644] Server  ERROR   Error uploading Spotlight CV PDF: StorageApiError: Bucket not found
+[00:00:29.920] Server  ERROR    ⨯ Error: Failed to upload Spotlight CV
+[00:00:30.037] Browser ERROR   uncaughtError: Error: Failed to upload Spotlight CV

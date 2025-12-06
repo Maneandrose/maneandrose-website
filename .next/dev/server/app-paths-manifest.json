@@ -1,0 +1,5 @@
+{
+  "/admin/actors/import/page": "app/admin/actors/import/page.js",
+  "/admin/actors/new/page": "app/admin/actors/new/page.js",
+  "/admin/actors/page": "app/admin/actors/page.js"
+}
